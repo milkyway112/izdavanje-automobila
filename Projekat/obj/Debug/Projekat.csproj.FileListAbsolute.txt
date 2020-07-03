@@ -1,0 +1,41 @@
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat\Projekat\bin\Debug\Projekat.exe.config
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat\Projekat\bin\Debug\Projekat.exe
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat\Projekat\bin\Debug\Projekat.pdb
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.DodajIliUkloniAutomobil.resources
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.Rezervisi.resources
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.Cache
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.exe
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.pdb
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.DodajPonudu.resources
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.Aplikacija.resources
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.PravljenjeKorisnickogNaloga.resources
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.Logovanje.resources
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.AplikacijaZaKupca1.resources
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.AplikacijaZaAdmina.resources
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.DodavanjeIUklanjanjeAdmina.resources
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.Kupci.resources
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.Rezervacije.resources
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.Statistika.resources
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.crtanje.resources
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat\Projekat\bin\Debug\Projekat.exe.config
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat\Projekat\bin\Debug\Projekat.exe
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat\Projekat\bin\Debug\Projekat.pdb
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.csprojAssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.Aplikacija.resources
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.AplikacijaZaAdmina.resources
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.AplikacijaZaKupca1.resources
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.DodajIliUkloniAutomobil.resources
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.DodajPonudu.resources
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.DodavanjeIUklanjanjeAdmina.resources
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.Kupci.resources
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.Logovanje.resources
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.PravljenjeKorisnickogNaloga.resources
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.Rezervacije.resources
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.Rezervisi.resources
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.Statistika.resources
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.cache
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.exe
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat\Projekat\obj\Debug\Projekat.pdb
